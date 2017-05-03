@@ -2,7 +2,7 @@
    "workflowApiVersion": "1.0",
    "metaData": {
        "icon": "images/PFL40.png",
-       "iconSmall": "images/PFL40.png",
+       "iconSmall": "images/PFL15.png",
        "category": "message",
 	   "isConfigured":true
    },
